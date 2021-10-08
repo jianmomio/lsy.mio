@@ -1,0 +1,55 @@
+h1
+{
+	color: peru;
+}
+#pa1
+{
+	color: burlywood;
+	font-style: oblique;
+}
+#pa2
+{
+	color: saddlebrown;
+}
+#nb
+{
+	color: gold;
+}
+#pa3
+{
+	color: olive;
+}
+#mh
+{
+	color: seagreen;
+	font-family: cursive;
+	font-size: 4vh;
+}
+body
+{
+	background-color: lightgoldenrodyellow;
+	width: 960px;
+	margin-left: auto;
+	margin-right: auto;
+	border-width: 2px;
+	border-style: solid;
+	border-color: darkgoldenrod;
+	border-radius: 5px;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+div.xh
+{
+	border-width: 1px;
+	border-style: dashed;
+	border-color: darkgoldenrod;
+	border-radius: 5px;
+}
+img 
+{
+	float: left;
+}
+div.xh-end 
+{
+	clear: both;
+}
